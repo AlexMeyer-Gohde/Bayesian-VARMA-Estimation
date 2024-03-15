@@ -1,0 +1,1 @@
+clear; close all; home; format long g;  rng('shuffle'); 
